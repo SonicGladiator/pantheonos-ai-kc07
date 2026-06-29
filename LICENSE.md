@@ -1,4 +1,4 @@
-# 
+# New PantheonOS presets. Featuring neural-networks and natural-language-processing — optimized for maximum performance.
 
 
 
